@@ -1,5 +1,6 @@
 # LEE KI WOOK
-EDM, Weight Training and Coding
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&duration=2000&pause=500&color=F70000&background=FFFFFF00&center=true&random=false&width=435&lines=EDM;WORKOUT;CODING;LOVE+IT)](https://git.io/typing-svg)
+
 
 ## Skill
 ### FRONTEND
