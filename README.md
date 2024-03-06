@@ -8,14 +8,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
-![springsecurity](https://img.shields.io/badge/springsecurity-6DB33F.svg?&style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
+![spring security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?&style=for-the-badge&logo=Spring%20Security&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
-![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
+![intellijidea](https://img.shields.io/badge/intellij%20idea-000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white)
 
 
-![amazonec2](https://img.shields.io/badge/amazonec2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white)
+![amazonec2](https://img.shields.io/badge/amazon%20ec2-FF9900.svg?&style=for-the-badge&logo=amazon%20ec2&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 
 ### 코딩테스트
