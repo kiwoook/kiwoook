@@ -1,8 +1,11 @@
-# LEE KI WOOK
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&duration=2000&pause=500&color=F70000&background=FFFFFF00&center=true&random=false&width=435&lines=EDM;WORKOUT;CODING;LOVE+IT)](https://git.io/typing-svg)
 
+<div align=center>
+  <h1>LEE KI WOOK</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anta&size=30&duration=2000&pause=500&color=F70000&background=FFFFFF00&center=true&vCenter=true&random=false&width=1012&height=80&lines=RAVE;WORKOUT;CODING;LIKE+IT" alt="Typing SVG" /></a>
+</div>
 
-## Skill
+<div align=center>
+  
 ### FRONTEND
 ![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
@@ -27,7 +30,11 @@
 
 ## Algorithm Level
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tizmfns1218)](https://solved.ac/tizmfns1218/)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiwoook&layout=compact)
+  
+</div>
+
 
 
 
