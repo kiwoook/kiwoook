@@ -25,7 +25,8 @@ EDM, Weight Training and Coding
 ![intellijidea](https://img.shields.io/badge/intellij%20idea-000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white)
 
 ## Algorithm Level
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tizmfns1218)](https://solved.ac/tizmfns1218/)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiwoook&layout=compact)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tizmfns1218)](https://solved.ac/tizmfns1218/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiwoook&layout=compact)
 
 
 
