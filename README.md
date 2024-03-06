@@ -1,5 +1,5 @@
 # LEE KI WOOK
-기웃기웃
+EDM, Weight Training and Coding
 
 ## Skill
 ### FRONTEND
