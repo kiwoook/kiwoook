@@ -31,6 +31,7 @@
 ## Algorithm Level
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tizmfns1218)](https://solved.ac/tizmfns1218/)
 
+## OPERATION TIME
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kiwoook)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
