@@ -19,16 +19,16 @@
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![discord](https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)
 
-### DEVOPS
-![docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![amazonec2](https://img.shields.io/badge/amazon%20ec2-FF9900.svg?&style=for-the-badge&logo=amazon%20ec2&logoColor=white)
-
 ### TOOL
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/intellij%20idea-000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white)
 
-## BOJ Algorithm Level
+### Cloud Tools
+![docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![amazonec2](https://img.shields.io/badge/amazon%20ec2-FF9900.svg?&style=for-the-badge&logo=amazon%20ec2&logoColor=white)
+
+## solved.ac Level
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tizmfns1218)](https://solved.ac/tizmfns1218/)
 
 ## OPERATION TIME (24.03.09 ~ )
