@@ -15,9 +15,7 @@
 ### 🗄️ BACKEND 🗄️
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
-![spring security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?&style=for-the-badge&logo=Spring%20Security&logoColor=white)
 
-![nodedotjs](https://img.shields.io/badge/node%2Ejs-339933.svg?&style=for-the-badge&logo=node%2Ejs&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![mongodb](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -30,14 +28,8 @@
 
 
 ### ☁ CLOUD SERVICE TOOLS ☁
-![amazons3](https://img.shields.io/badge/amazon%20s3-569A31.svg?&style=for-the-badge&logo=amazon%20s3&logoColor=white)
-![amazondynamodb](https://img.shields.io/badge/amazon%20dynamodb-4053D6.svg?&style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![amazonelasticache](https://img.shields.io/badge/amazon%20elasticache-C925D1.svg?&style=for-the-badge&logo=amazonelasticache&logoColor=white)
-![amazonrds](https://img.shields.io/badge/amazon%20rds-527FFF.svg?&style=for-the-badge&logo=amazonrds&logoColor=white)
+![aws](https://img.shields.io/badge/amazon%20web%20services-232F3E.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-![amazonapigateway](https://img.shields.io/badge/amazon%20api%20gateway-FF4F8B.svg?&style=for-the-badge&logo=amazonapigateway&logoColor=white)
-![amazonsqs](https://img.shields.io/badge/amazon%20sqs-FF4F8B.svg?&style=for-the-badge&logo=amazonsqs&logoColor=white)
-![amazonec2](https://img.shields.io/badge/amazon%20ec2-FF9900.svg?&style=for-the-badge&logo=amazon%20ec2&logoColor=white)
 
 ### ⚙️ INFRASTRUCURE TOOLS ⚙️
 ![docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
