@@ -1,7 +1,7 @@
 
 <div align=center>
   <h1>LEE KI WOOK</h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anta&size=30&duration=2000&pause=500&color=F70000&background=FFFFFF00&center=true&vCenter=true&random=false&width=1012&height=80&lines=RAVE;WORKOUT;CODING;LIKE+IT" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anta&size=30&duration=2000&pause=500&color=F70000&background=FFFFFF00&center=true&vCenter=true&random=false&width=1012&height=80&lines=FESTIVAL;WORKOUT;CODING;LIKE+IT" alt="Typing SVG" /></a>
 </div>
 
 <div align=center>
